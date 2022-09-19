@@ -1,4 +1,4 @@
-[![App on Heroku](https://www.fullstackpython.com/heroku.html)](https://taxi-service112.herokuapp.com/)
+[![App on Heroku](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png)](https://taxi-service112.herokuapp.com/)
 ## 📖 Description
 This app is look like simple visualisation of Taxi Service.
 
