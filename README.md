@@ -1,6 +1,6 @@
 [![App on Heroku](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png)](https://taxi-service112.herokuapp.com/)
 ## 📖 Description
-This app is look like simple visualisation of Taxi Service.
+This app looks like a simple visualization of Taxi Service.
 
 ## 📋 Project structure
 **The project has an 3-Tier Architecture**
