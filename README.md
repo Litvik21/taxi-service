@@ -17,8 +17,6 @@ This app is look like simple visualisation of Taxi Service.
 ## 🖥️ Technologies
 - Java 11
 - Maven
-- Java 11
-- Maven
 - MySQL
 - JDBC
 - Tomcat
